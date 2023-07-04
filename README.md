@@ -1,6 +1,7 @@
 # 动手学习深度学习
 地址：[博客链接](https://luke-blog.netlify.app/)<br>
 (tip:图床用github搭建，所以加载有点慢~~)<br>
+netlify让墙了。。。。
 <br>
 <br>
 # 回来了
